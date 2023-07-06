@@ -103,3 +103,26 @@ Design an API for an online store with the following functionality:
     ]
 }
   ```
+
+## Setup
+
+  - Clone the repository:
+```shell 
+git clone https://github.com/Audarya07/online-store.git
+```
+
+- Install the dependencies:
+
+```shell
+go get ./...
+```
+
+- Start the server:
+
+```shell
+    go run main.go
+```
+
+The server will be accessible at http://localhost:8000.
+
+Feel free to explore and use the API endpoints as described above. 
